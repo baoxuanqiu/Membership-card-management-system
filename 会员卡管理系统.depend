@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1580279433 source:c:\codeblocks\会员卡管理系统\bstree.cpp
+	<stdio.h>
+	"a.h"
+	<malloc.h>
+	<iostream>
+	<stdlib.h>
+
+1580279433 c:\codeblocks\会员卡管理系统\a.h
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<string>
+
+1580279433 source:c:\codeblocks\会员卡管理系统\c_d_huiyuan.cpp
+	"a.h"
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1580279433 source:c:\codeblocks\会员卡管理系统\main.cpp
+	"a.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1583069637 source:c:\codeblocks\会员卡管理系统\r_file.cpp
+	"a.h"
+	<stdio.h>
+	<iostream>
+	<string.h>
+
